@@ -1,6 +1,9 @@
 # io7
 An in-depth look into the compression format used to store Windows 95/98's boot graphics (which I am calling "IO7").
 
+![image](https://github.com/user-attachments/assets/4bde3727-bbaa-4349-a35f-de56d2bc27d5) ![image](https://github.com/user-attachments/assets/73f11aea-abe2-4689-a253-8e26ca4dc19c)
+
+
 ## Background 
 
 In Windows 95 and 98, you can override the default boot splash by placing
